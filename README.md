@@ -77,6 +77,7 @@ Steps taken:
 - `Retail_Analysis.pbix`: The Power BI project file containing all visuals and data transformations.
 - `Insights_Screenshots/`: Screenshots of the visuals for quick reference.
 
----
+
+
 
 
